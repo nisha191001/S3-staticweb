@@ -1,4 +1,4 @@
-[1:27 pm, 22/6/2026] Nisha: name: Deploy Website to S3
+ name: Deploy Website to S3
 
 on:
   push:
